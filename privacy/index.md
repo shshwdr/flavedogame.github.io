@@ -1,4 +1,4 @@
-## Welcome
+## 郁郁葱葱隐私政策
 
 温馨提示
  
@@ -86,9 +86,9 @@
 三、	我们如何使用Cookies和同类技术
 1.	我们如何使用Cookies
 (1)	通过使用Cookies，我们向用户提供安全且具个性化的服务体验。我们和第三方合作伙伴会在您的计算机或移动设备上存储Cookies、Flash Cookies，或浏览器（或关联应用程序）提供的其他通常包含标识符、站点名称以及一些号码和字符的本地存储（以上合称“Cookies”）。我们和我们的第三方合作伙伴可能通过Cookies收集您的信息，并将信息用于以下用途：
-	安全类Cookies：Cookies可帮助我们保障产品和服务的安全和高效运转。
-	推荐类Cookies：Cookies可帮助我们为您推荐、展示、推送您可能感兴趣的内容。
-	……
+ 	安全类Cookies：Cookies可帮助我们保障产品和服务的安全和高效运转。
+ 	推荐类Cookies：Cookies可帮助我们为您推荐、展示、推送您可能感兴趣的内容。
+ 	……
 (2)	第三方合作伙伴通过Cookies收集和使用您的信息不受本政策约束，而是受到其自身的信息保护声明约束，我们不对第三方的Cookies或同类技术承担责任。
 (3)	如果您的浏览器或浏览器附加服务允许，您可修改对Cookies的接受程度或拒绝我们的Cookies。有关详情，请参见https://www.aboutcookies.org/。但如果您这么做，在某些情况下可能会影响您安全使用我们的产品或服务。同时，您仍然将收到商品或服务信息，只是这些商品或服务信息与您的相关性会降低。
 2.	我们如何使用同类技术
@@ -176,38 +176,3 @@ SDK名称	SDK使用目的	SDK收集的信息	隐私政策链接
 邮件地址：flvdogame@gmail.com
 一般情况下，我们将在十五个工作日内回复。如果您对我们的回复不满意，特别是我们的个人信息处理行为损害了您的合法权益，您还可以向网信、电信、公安及工商等监管部门进行投诉或举报，或通过向被告住所地有管辖权的法院提起诉讼来寻求解决方案。
 
-You can use the [editor on GitHub](https://github.com/shshwdr/flavedogame.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shshwdr/flavedogame.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
